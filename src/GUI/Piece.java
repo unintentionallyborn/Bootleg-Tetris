@@ -1,4 +1,4 @@
-package Domain;
+package GUI;
 
 import GUI.Grid;
 
